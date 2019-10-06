@@ -1,0 +1,3 @@
+target_ssh=
+target_folder=
+dest_folder=
